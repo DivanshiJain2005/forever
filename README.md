@@ -71,6 +71,8 @@ To deploy the project on Vercel:
 2. Connect the repository to Vercel.
 3. Deploy both the frontend and backend separately.
 
+Credits : https://youtu.be/7E6um7NGmeE?si=3tdDDz2_2CrXqJwe
+
 ## Contributors
 - **Divanshi Jain** - [GitHub Profile](https://github.com/DivanshiJain2005)
 
